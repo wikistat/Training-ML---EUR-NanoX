@@ -23,24 +23,37 @@ This training session is for researchers, students, engineers who wish to reinfo
 
 *Scientific contacts:*  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/), [Olivier Roustant](https://olivier-roustant.fr/)
 
-#### Program
-Every day from 8h30 to 17h30. 
+#### Program 
 
-- **Day1 Linear Models for Regression and Classification**
-	 - 8H30-10H : Lecture : Linear Model for Regression  [**Slides**]()
-	 -10H-10H30 : Coffee break
-	 -10H30-12H :  **Tutorials** Ozone concentration prediction models - Execute the first  part of the two [tutorials](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/Pic-ozone) using respectively  R and python/scikit-learn softwares.
+- **Day1 :  Linear Models for Regression and Classification**
+
+    -8H30-10H : **Lecture**: Linear Model for Regression  [**Slides**]()
+	 
+    -10H-10H30 : Coffee break
+	 
+    -10H30-12H :  **Tutorials** Ozone concentration prediction models 
+	 
+   Execute the first  part of the two [tutorials](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/Pic-ozone) using respectively  R and python/scikit-learn softwares.
 	
-	 -14H-15H30  Lecture : Generalized Linear models for Classification [**Slides**]()
+	 -14H-15H30 : **Lecture**  Generalized Linear models for Classification [**Slides**]()
+	 
 	 -15H30-16H : Coffee break
-	 -16H30-17H30 :  **Tutorials** Ozone concentration prediction models - Execute the second  part of the two [tutorials](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/Pic-ozone) dedicated to classification
 	 
-- **Day2 Non linear Machine Learning algorithms**
-     - 8H30-10H  :  Lecture : Classification an Regression Trees, Random Forests [**Slides**]()
-	 -10H-10H30 : Coffee break
-	 -10H30-12H : Lecture : Neural Networks and Introduction to deep learning [**Slides**]()
+	 -16H30-17H30 :  **Tutorials** Ozone concentration prediction models 
 	 
-	 -14H-17H30   **Tutorials**  Human Activity Recognition - Execute the Python [tutorial](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/HAR) where all the supervised classification algorithms studied in this training will be applied to Human Activity Recognition based on signals recording obtained with a smartphone. 
+	 Execute the second  part of the two [tutorials](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/Pic-ozone) dedicated to classification
+	 
+- **Day2 : Non linear Machine Learning algorithms**
+
+     -8H30-10H  :  **Lecture** Classification an Regression Trees, Random Forests [**Slides**]()
+	 
+     -10H-10H30 : Coffee break
+	 
+     -10H30-12H : Lecture : Neural Networks and Introduction to deep learning [**Slides**]()
+	 
+     -14H-17H30  : **Tutorials**  Human Activity Recognition
+     
+     Execute the Python [tutorial](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/HAR) where all the supervised classification algorithms studied in this training will be applied to Human Activity Recognition based on signals recordings obtained with a smartphone. 
 	 
 	 
 *N.B.* Notebooks analysing many other use cases are available on [Wikistat](https://github.com/wikistat/).
