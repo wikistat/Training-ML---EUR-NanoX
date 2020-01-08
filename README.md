@@ -10,7 +10,7 @@ To present the main algorithms for supervised learning : linear models for regre
 
 
 #### Target participants
-This training session is for researchers, students, engineers who wish to reinforce or extend their theoretical background and practical knowledge on automatic data analysis by statistical learning algorithms.
+This training session is for researchers, students, engineers who wish to reinforce or extend their theoretical background and practical knowledge on automatic data analysis by learning algorithms.
 
 #### Prerequisites
 
