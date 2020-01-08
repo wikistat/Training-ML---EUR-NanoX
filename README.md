@@ -3,7 +3,7 @@
 
 
 #### Abstract
-This training course enables the participants to reinforce their theoretical and practical knowledge in order to implement machine learning techniques for the data analysis. The main algorithms for prediction (supervised learning) are presented. Each method is first presented and commented on a theoretical level, and then illustrated on numerical experiments run with public datasets using R and/or  python/scikit-learn software.
+This training course enables the participants to reinforce their theoretical and practical knowledge in order to implement machine learning techniques for data analysis. The main algorithms for prediction (supervised learning) are presented. Each method is first presented and commented on a theoretical level, and then illustrated on numerical experiments run with public datasets using R and/or  python/scikit-learn software.
 
 #### Objective of the training
 To present the main algorithms for supervised learning : linear models for regression and classification, Classification and Regression Tress, Random Forests, introduction to Neural Networks and Deep Learning and to use them with R and/or python/scikit-learn.
@@ -24,38 +24,24 @@ This training session is for researchers, students, engineers who wish to reinfo
 *Scientific contacts:*  [Béatrice Laurent-Bonneau](https://perso.math.univ-toulouse.fr/laurent/), [Olivier Roustant](https://olivier-roustant.fr/)
 
 #### Program
-Every day from 9h to 17h30. Morning: lecture; afternoon: hands-on sessions.
+Every day from 8h30 to 17h30. 
 
-- **Day1 ML Introduction and Unsupervised learning**
-	- General presentation of statistical machine learning 
-	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J0-2019.pdf)
-	- Principal component analysis  
-	- Agglomerative Hierarchical Clustering
-	- k-means, k-medoids and variants, DBSCAN...
-	- [**Slides**] 
-  
-	- **Tutorials** Execute successively the first [tutorial](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Clustering/ML-Clustering.ipynb) and then the episodes one of each notebook: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb),
-	[Mars](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Mars/ML-Tutorial-Mars.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb). The segmentation of an image of Mars by clustering algorithms is specific to the first day.
-	- ***N.B.*** It would be too long to execute all notebooks. So you can choose then accordingly to your level and / or your field of interest. Their is a complexity progression from Ozone to MNIST.
-- **Day2 Supervised learning 1 / 2**
-	- k nearest neighbors
-	- Gaussian linear model, logistic regression, model selection
-	- Lasso et variants
-	- Support Vector Machines
-	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J2-2019.pdf)
-	- **Tutorials** Episodes two of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb)
-- **Day3 Supervised learning 2 / 2**
-	- Decision Trees
-	- Bagging, Random Forests, Boosting
-	- Neural networks, deep learning
-	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J3-BL-2019.pdf)
-	- **Tutorials** Episodes three of: [Ozone](https://github.com/wikistat/MLTraining/blob/master/Notebooks/Ozone/ML-Tutorial-Ozone.ipynb), [HAR](https://github.com/wikistat/MLTraining/blob/master/Notebooks/HAR/ML-Tutorial-IoT-Har.ipynb), [MNIST](https://github.com/wikistat/MLTraining/blob/master/Notebooks/MNIST/ML-Tutorial-MNIST.ipynb)
-- **Day4 Other ML algorithms**
-	- Sequential learning, multi-armed bandit problems
-	- Super-learning and expert aggregation
-	- Reinforcement learning (introduction)
-	- [**Slides**](https://github.com/wikistat/MLTraining/blob/master/Slides/CERFACS-J4-2019.pdf)
-	- **Tutorials**[Inventory Control](https://github.com/wikistat/MLTraing/tree/master/Notebooks/home-local/pbesse/Documents/GitHub/MLTraining/Notebooks/inventoryControl.R)
+- **Day1 Linear Models for Regression and Classification**
+	 - 8H30-10H : Lecture : Linear Model for Regression  [**Slides**]()
+	 -10H-10H30 : Coffee break
+	 -10H30-12H :  **Tutorials** Ozone concentration prediction models - Execute the first  part of the two [tutorials](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/Pic-ozone) using respectively  R and python/scikit-learn softwares.
 	
+	 -14H-15H30  Lecture : Generalized Linear models for Classification [**Slides**]()
+	 -15H30-16H : Coffee break
+	 -16H30-17H30 :  **Tutorials** Ozone concentration prediction models - Execute the second  part of the two [tutorials](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/Pic-ozone) dedicated to classification
+	 
+- **Day2 Non linear Machine Learning algorithms**
+     - 8H30-10H  :  Lecture : Classification an Regression Trees, Random Forests [**Slides**]()
+	 -10H-10H30 : Coffee break
+	 -10H30-12H : Lecture : Neural Networks and Introduction to deep learning [**Slides**]()
+	 
+	 -14H-17H30   **Tutorials**  Human Activity Recognition - Execute the Python [tutorial](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/HAR) where all the supervised classification algorithms studied in this training will be applied to Human Activity Recognition based on signals recording obtained with a smartphone. 
+	 
+	 
 *N.B.* Notebooks analysing many other use cases are available on [Wikistat](https://github.com/wikistat/).
 
