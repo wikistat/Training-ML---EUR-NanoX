@@ -27,29 +27,29 @@ This training session is for researchers, students, engineers who wish to reinfo
 
 - **Day1 :  Linear Models for Regression and Classification**
 
-    -8H30-10H : **Lecture**  Linear Model for Regression  [**Slides**]()
+    -9H-10H30: **Lecture**  Linear Models for Regression  [**Slides**]()
 	 
-    -10H-10H30 : Coffee break
+    -10H30-11H : Coffee break
 	 
-    -10H30-12H :  **Tutorials**  Ozone concentration prediction models 
+    -11H-12H30:  **Tutorials**  Ozone concentration prediction models 
 	 
    Execute the first  part of the two [tutorials](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/Pic-ozone) using respectively  R and python/scikit-learn softwares.
 	
-	 -14H-15H30 : **Lecture**   Generalized Linear models for Classification [**Slides**]()
+	 -14H-15H30 : **Lecture**   Linear models for Classification [**Slides**]()
 	 
 	 -15H30-16H : Coffee break
 	 
-	 -16H30-17H30 :  **Tutorials**  Ozone concentration prediction models 
+	 -16H-17H30 :  **Tutorials**  Ozone concentration prediction models 
 	 
 	 Execute the second  part of the two [tutorials](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/Pic-ozone) dedicated to classification
 	 
 - **Day2 : Non linear Machine Learning algorithms**
 
-     -8H30-10H  :  **Lecture**  Classification an Regression Trees, Random Forests [**Slides**]()
+     -9H-10H30 :  **Lecture**  Classification an Regression Trees, Random Forests [**Slides**]()
 	 
-     -10H-10H30 : Coffee break
+     -10H30-11H : Coffee break
 	 
-     -10H30-12H : **Lecture**  Neural Networks and Introduction to deep learning [**Slides**]()
+     -11H-12H30 : **Lecture**  Neural Networks and Introduction to deep learning [**Slides**]()
 	 
      -14H-17H30  : **Tutorials**   Human Activity Recognition
      
