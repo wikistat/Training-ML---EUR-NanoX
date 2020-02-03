@@ -27,7 +27,7 @@ This training session is for researchers, students, engineers who wish to reinfo
 
 - **Day1 :  Linear Models for Regression and Classification**
 
-    -9H-10H30: **Lecture**  Linear Models for Regression  [**Slides**]()
+    -9H-10H30: **Lecture**  Linear Models for Regression  [**Slides**](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/slides)
 	 
     -10H30-11H : Coffee break
 	 
@@ -35,7 +35,7 @@ This training session is for researchers, students, engineers who wish to reinfo
 	 
    Execute the first  part of the two [tutorials](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/notebooks/Pic-ozone) using respectively  R and python/scikit-learn softwares.
 	
-	 -14H-15H30 : **Lecture**   Linear models for Classification [**Slides**]()
+	 -14H-15H30 : **Lecture**   Linear models for Classification [**Slides**](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/slides)
 	 
 	 -15H30-16H : Coffee break
 	 
@@ -45,11 +45,11 @@ This training session is for researchers, students, engineers who wish to reinfo
 	 
 - **Day2 : Non linear Machine Learning algorithms**
 
-     -9H-10H30 :  **Lecture**  Classification an Regression Trees, Random Forests [**Slides**]()
+     -9H-10H30 :  **Lecture**  Classification and Regression Trees, Random Forests [**Slides**](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/slides)
 	 
      -10H30-11H : Coffee break
 	 
-     -11H-12H30 : **Lecture**  Neural Networks and Introduction to deep learning [**Slides**]()
+     -11H-12H30 : **Lecture**  Neural Networks and Introduction to deep learning [**Slides**](https://github.com/wikistat/Training-ML---EUR-NanoX/tree/master/slides)
 	 
      -14H-17H30  : **Tutorials**   Human Activity Recognition
      
